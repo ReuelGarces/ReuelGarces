@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Reuel Garcês — Engenharia de Computação e Software</title>
+  <desc id="desc">Apresentação profissional de Reuel Garcês em um painel escuro com um traço em degradê violeta, rosa e coral.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b888f5"/>
+      <stop offset="52%" stop-color="#ee8bc0"/>
+      <stop offset="100%" stop-color="#ff9075"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="#0c0a0f"/>
+  <path d="M850 46h125c18 0 32 14 32 32v24h82" fill="none" stroke="#a29ba8" stroke-opacity=".16" stroke-width="1"/>
+  <path d="M905 62h70c9 0 16 7 16 16v22" fill="none" stroke="url(#accent)" stroke-opacity=".62" stroke-width="1.4"/>
+  <circle cx="1089" cy="102" r="3" fill="#ee8bc0" fill-opacity=".8"/>
+  <circle cx="975" cy="78" r="2" fill="#b888f5" fill-opacity=".7"/>
+  <path d="M64 202h1072" stroke="url(#accent)" stroke-opacity=".86" stroke-width="1.5"/>
+  <text x="64" y="154" fill="#f4f0f6" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="58" font-weight="300" letter-spacing="2.6">REUEL GARCÊS</text>
+</svg>
