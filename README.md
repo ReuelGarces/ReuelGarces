@@ -8,15 +8,15 @@ Engenheiro de Computação e desenvolvedor de software. Crio sistemas para domí
 **Backend e desktop:** Node.js · Fastify · C# · .NET · WPF · MVVM  
 **Dados e APIs:** PostgreSQL · Drizzle ORM · REST · ConnectRPC · Protocol Buffers
 
-## Estatísticas
+## Atividade no GitHub
 
 <p align="center">
-  <img
-    width="500"
-    src="https://github-readme-stats.vercel.app/api?username=g4rces&amp;show_icons=true&amp;hide_rank=true&amp;card_width=500&amp;custom_title=Estat%C3%ADsticas%20p%C3%BAblicas&amp;locale=pt-br&amp;bg_color=0c0a0f&amp;title_color=f4f0f6&amp;text_color=d8d2dc&amp;icon_color=b888f5&amp;border_color=35303a"
-    alt="Estatísticas públicas do GitHub: estrelas, commits, pull requests, issues e contribuições."
-  />
+  <a href="https://github.com/g4rces#js-contribution-activity-description">
+    <img src="./assets/activity-stats.svg" width="100%" alt="1.945 contribuições públicas e privadas agregadas nos últimos 12 meses; snapshot de 14 de outubro de 2026. Abrir o gráfico atualizado no GitHub." />
+  </a>
 </p>
+
+*Snapshot de 14 out. 2026 · o gráfico do perfil continua sendo atualizado pelo GitHub.*
 
 ## Projetos em destaque
 
