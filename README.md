@@ -2,6 +2,12 @@
 
 Engenheiro de Computação e desenvolvedor de software. Crio sistemas para domínios técnicos, com foco atual em engenharia automotiva.
 
+## Skills
+
+**Web:** Next.js · React · TypeScript · Tailwind CSS · Motion  
+**Backend e desktop:** Node.js · Fastify · C# · .NET · WPF · MVVM  
+**Dados e APIs:** PostgreSQL · Drizzle ORM · REST · ConnectRPC · Protocol Buffers
+
 ## Projetos em destaque
 
 ### Ultimate ECU Database
