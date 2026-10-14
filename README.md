@@ -12,8 +12,8 @@ Engenheiro de Computação e desenvolvedor de software. Crio sistemas para domí
 
 <p align="center">
   <img
-    height="190"
-    src="https://github-readme-stats.vercel.app/api?username=g4rces&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;custom_title=Estat%C3%ADsticas%20p%C3%BAblicas&amp;locale=pt-br&amp;bg_color=0c0a0f&amp;title_color=f4f0f6&amp;text_color=d8d2dc&amp;icon_color=b888f5&amp;border_color=35303a"
+    width="500"
+    src="https://github-readme-stats.vercel.app/api?username=g4rces&amp;show_icons=true&amp;hide_rank=true&amp;card_width=500&amp;custom_title=Estat%C3%ADsticas%20p%C3%BAblicas&amp;locale=pt-br&amp;bg_color=0c0a0f&amp;title_color=f4f0f6&amp;text_color=d8d2dc&amp;icon_color=b888f5&amp;border_color=35303a"
     alt="Estatísticas públicas do GitHub: estrelas, commits, pull requests, issues e contribuições."
   />
 </p>
