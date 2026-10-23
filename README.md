@@ -11,12 +11,14 @@ Engenheiro de Computação e desenvolvedor de software. Crio sistemas para domí
 ## Atividade no GitHub
 
 <p align="center">
-  <a href="https://github.com/g4rces#js-contribution-activity-description">
-    <img src="./assets/activity-stats.svg" width="100%" alt="1.945 contribuições públicas e privadas agregadas nos últimos 12 meses; snapshot de 14 de outubro de 2026. Abrir o gráfico atualizado no GitHub." />
+  <a href="https://github.com/ReuelGarces#js-contribution-activity-description">
+    <img src="./assets/activity-stats.svg" width="100%" alt="Total de contribuições públicas e privadas no GitHub nos últimos 12 meses, atualizado diariamente." />
   </a>
 </p>
 
-*Snapshot de 14 out. 2026 · o gráfico do perfil continua sendo atualizado pelo GitHub.*
+*Dados agregados dos últimos 12 meses · atualização automática diária.*
+
+<!-- O workflow requer o segredo GH_STATS_TOKEN com escopo read:user para incluir contribuições privadas. -->
 
 ## Projetos em destaque
 
