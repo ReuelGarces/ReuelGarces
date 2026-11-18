@@ -1,23 +1,20 @@
 user: ReuelGarces
-show: [summary, languages, contributions, weekly]
+show: [languages, contributions, weekly]
 count:
-  private: true
-  orgs: true
+  private: false
+  orgs: false
 look:
   style: classic
   color: github
   animations: true
   background: none
 cards:
-  summary:
-    title: Atividade no GitHub
-    ring: github
   languages:
     title: Linguagens mais usadas
     count: 6
   contributions:
-    title: Contribuições em destaque
+    title: Contribuições públicas em destaque
     count: 6
     open: true
   weekly:
-    title: Ritmo semanal
+    title: Ritmo semanal público
