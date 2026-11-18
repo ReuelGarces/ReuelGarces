@@ -20,27 +20,6 @@ Engenheiro de Computação e desenvolvedor de software. Crio sistemas para domí
 
 <!-- O workflow requer o segredo GH_STATS_TOKEN com escopo read:user para incluir contribuições privadas. -->
 
-### Linguagens e contribuições públicas
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/languages-dark.svg">
-    <img src="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/languages-light.svg" width="400" alt="Linguagens públicas mais usadas">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/contributions-dark.svg">
-    <img src="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/contributions-light.svg" width="400" alt="Contribuições públicas em destaque">
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/weekly-dark.svg">
-    <img src="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/weekly-light.svg" width="400" alt="Ritmo semanal de contribuições públicas">
-  </picture>
-</p>
-
-*Cartões animados com dados públicos · atualização automática a cada 2 horas.*
-
 ## Projetos em destaque
 
 ### Ultimate ECU Database
