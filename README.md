@@ -11,14 +11,27 @@ Engenheiro de Computação e desenvolvedor de software. Crio sistemas para domí
 ## Atividade no GitHub
 
 <p align="center">
-  <a href="https://github.com/ReuelGarces#js-contribution-activity-description">
-    <img src="./assets/activity-stats.svg" width="100%" alt="Total de contribuições públicas e privadas no GitHub nos últimos 12 meses, atualizado diariamente." />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/summary-dark.svg">
+    <img src="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/summary-light.svg" width="400" alt="Resumo da atividade no GitHub">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/languages-dark.svg">
+    <img src="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/languages-light.svg" width="400" alt="Linguagens mais usadas">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/contributions-dark.svg">
+    <img src="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/contributions-light.svg" width="400" alt="Contribuições em destaque">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/weekly-dark.svg">
+    <img src="https://raw.githubusercontent.com/ReuelGarces/ReuelGarces/cards/weekly-light.svg" width="400" alt="Ritmo semanal de contribuições">
+  </picture>
 </p>
 
-*Dados agregados dos últimos 12 meses · atualização automática diária.*
-
-<!-- O workflow requer o segredo GH_STATS_TOKEN com escopo read:user para incluir contribuições privadas. -->
+*Dados agregados dos últimos 12 meses · cartões animados · atualização automática a cada 2 horas.*
 
 ## Projetos em destaque
 
