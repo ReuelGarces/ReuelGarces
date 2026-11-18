@@ -1,0 +1,39 @@
+# Cartões do perfil com github-cool-readme
+name: Atualizar cartões do perfil
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: pedrocatalao/github-cool-readme@v1
+        with:
+          token: ${{ secrets.GH_STATS_TOKEN }}
+          output: ${{ runner.temp }}/cards
+      - name: Publicar cartões na branch cards
+        run: |
+          if ! ls "$RUNNER_TEMP"/cards/*.svg >/dev/null 2>&1; then
+            echo "Nenhum cartão está habilitado."
+            exit 0
+          fi
+          git fetch --quiet --depth 1 origin cards:refs/remotes/origin/cards 2>/dev/null || true
+          git switch --quiet --orphan cards
+          cp "$RUNNER_TEMP"/cards/*.svg .
+          git add -- *.svg
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit --quiet -m 'Atualizar cartões do perfil'
+          if git rev-parse --quiet --verify origin/cards >/dev/null && git diff --quiet origin/cards HEAD; then
+            echo "Os cartões já estão atualizados."
+            exit 0
+          fi
+          git push --force origin cards
